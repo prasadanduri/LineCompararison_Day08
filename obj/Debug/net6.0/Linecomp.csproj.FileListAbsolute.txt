@@ -1,0 +1,15 @@
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\bin\Debug\net6.0\Linecomp.exe
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\bin\Debug\net6.0\Linecomp.deps.json
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\bin\Debug\net6.0\Linecomp.runtimeconfig.json
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\bin\Debug\net6.0\Linecomp.dll
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\bin\Debug\net6.0\Linecomp.pdb
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\obj\Debug\net6.0\Linecomp.csproj.AssemblyReference.cache
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\obj\Debug\net6.0\Linecomp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\obj\Debug\net6.0\Linecomp.AssemblyInfoInputs.cache
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\obj\Debug\net6.0\Linecomp.AssemblyInfo.cs
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\obj\Debug\net6.0\Linecomp.csproj.CoreCompileInputs.cache
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\obj\Debug\net6.0\Linecomp.dll
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\obj\Debug\net6.0\refint\Linecomp.dll
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\obj\Debug\net6.0\Linecomp.pdb
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\obj\Debug\net6.0\Linecomp.genruntimeconfig.cache
+C:\Users\Prasad\source\repos\Linecomp\Linecomp\obj\Debug\net6.0\ref\Linecomp.dll
